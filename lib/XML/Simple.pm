@@ -3363,4 +3363,5 @@ under the same terms as Perl itself.
 
 =cut
 
-
+# Set up VIM for people using modelines
+# vim: et sts=2 sw=2
